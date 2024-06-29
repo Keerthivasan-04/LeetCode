@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -38,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthivasan-04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
