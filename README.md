@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 | [0015-3sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
