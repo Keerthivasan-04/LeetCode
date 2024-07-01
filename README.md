@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthivasan-04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Keerthivasan-04/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0065-valid-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0065-valid-number) |
 ## Array
 |  |
 | ------- |
