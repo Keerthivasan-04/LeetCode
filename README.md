@@ -49,6 +49,7 @@
 | [0007-reverse-integer](https://github.com/Keerthivasan-04/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Keerthivasan-04/LeetCode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Keerthivasan-04/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -116,4 +117,9 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Keerthivasan-04/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Keerthivasan-04/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
