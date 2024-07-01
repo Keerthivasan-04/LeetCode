@@ -53,6 +53,7 @@
 | [0009-palindrome-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Keerthivasan-04/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Keerthivasan-04/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Keerthivasan-04/LeetCode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Keerthivasan-04/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Keerthivasan-04/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthivasan-04/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Keerthivasan-04/LeetCode/tree/master/0231-power-of-two) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
