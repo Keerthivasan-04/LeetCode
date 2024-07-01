@@ -16,6 +16,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Keerthivasan-04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Keerthivasan-04/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Keerthivasan-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Keerthivasan-04/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Keerthivasan-04/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Keerthivasan-04/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Keerthivasan-04/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Keerthivasan-04/LeetCode/tree/master/0231-power-of-two) |
@@ -99,6 +101,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Keerthivasan-04/LeetCode/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 ## Prefix Sum
 |  |
