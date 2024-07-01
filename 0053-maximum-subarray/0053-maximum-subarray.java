@@ -6,12 +6,10 @@ class Solution {
         int n = nums.length;
         while(i<n){
             cr += nums[i];
-            if(cr>max){
-                max = cr;
-            }
-            if(cr < 0){
-                cr =0;
-            }
+            max = (cr>max)?cr : max;
+                
+            cr = (cr < 0) ? 0:cr;
+    
             i++;
         }
         // System.gc();
