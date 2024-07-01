@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthivasan-04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Keerthivasan-04/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Keerthivasan-04/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0065-valid-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0065-valid-number) |
 ## Array
@@ -78,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Keerthivasan-04/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0189-rotate-array) |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Keerthivasan-04/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
