@@ -14,6 +14,7 @@ class Solution {
             }
             i++;
         }
+        System.gc();
         return max;
     }
 }
