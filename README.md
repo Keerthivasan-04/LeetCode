@@ -20,6 +20,7 @@
 | [0015-3sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Keerthivasan-04/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Keerthivasan-04/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Keerthivasan-04/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthivasan-04/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +69,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Divide and Conquer
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Keerthivasan-04/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 ## Prefix Sum
 |  |
