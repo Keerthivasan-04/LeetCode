@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Keerthivasan-04/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Keerthivasan-04/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthivasan-04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
@@ -80,6 +82,7 @@
 | [0015-3sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
@@ -104,6 +107,7 @@
 | [0165-compare-version-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Keerthivasan-04/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +121,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
