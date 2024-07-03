@@ -41,6 +41,7 @@
 | [1293-three-consecutive-odds](https://github.com/Keerthivasan-04/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Keerthivasan-04/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -95,6 +96,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Keerthivasan-04/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -148,6 +150,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Keerthivasan-04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Keerthivasan-04/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Bit Manipulation
 |  |
 | ------- |
