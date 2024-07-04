@@ -9,6 +9,7 @@
 | [0006-zigzag-conversion](https://github.com/Keerthivasan-04/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Keerthivasan-04/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0065-valid-number) |
+| [0072-edit-distance](https://github.com/Keerthivasan-04/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Keerthivasan-04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -151,6 +152,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Keerthivasan-04/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Keerthivasan-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Keerthivasan-04/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthivasan-04/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
