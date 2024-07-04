@@ -84,6 +84,7 @@
 | [0054-spiral-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Keerthivasan-04/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Keerthivasan-04/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Queue
 |  |
 | ------- |
