@@ -165,6 +165,7 @@
 | [0275-h-index-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Keerthivasan-04/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Keerthivasan-04/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Keerthivasan-04/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -213,4 +214,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Keerthivasan-04/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Keerthivasan-04/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
