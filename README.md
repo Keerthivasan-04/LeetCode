@@ -159,6 +159,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Keerthivasan-04/LeetCode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Keerthivasan-04/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Keerthivasan-04/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Keerthivasan-04/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
