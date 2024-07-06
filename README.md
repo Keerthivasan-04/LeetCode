@@ -43,6 +43,7 @@
 | [0485-max-consecutive-ones](https://github.com/Keerthivasan-04/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0777-toeplitz-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/Keerthivasan-04/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/Keerthivasan-04/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1293-three-consecutive-odds](https://github.com/Keerthivasan-04/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/Keerthivasan-04/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
