@@ -87,6 +87,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Keerthivasan-04/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2645-pass-the-pillow](https://github.com/Keerthivasan-04/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Keerthivasan-04/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/Keerthivasan-04/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Divide and Conquer
 |  |
 | ------- |
