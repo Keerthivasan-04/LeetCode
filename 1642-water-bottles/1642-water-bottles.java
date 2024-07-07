@@ -1,13 +1,17 @@
 class Solution {
     public int numWaterBottles(int numB, int numE) {
 
-        int ans = numB;
-        while(numB >= numE)
-        {
-            ans += numB / numE;
-            numB = numB / numE + numB % numE;
-        }
-        return ans;
+
+
+        return numB + (numB - 1) / (numE - 1);
+
+        // int ans = numB;
+        // while(numB >= numE)
+        // {
+        //     ans += numB / numE;
+        //     numB = numB / numE + numB % numE;
+        // }
+        // return ans;
 
     }
 }
