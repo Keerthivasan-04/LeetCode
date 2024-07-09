@@ -53,6 +53,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Keerthivasan-04/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1803-average-waiting-time](https://github.com/Keerthivasan-04/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Keerthivasan-04/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
@@ -102,6 +103,7 @@
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Keerthivasan-04/LeetCode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/Keerthivasan-04/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Keerthivasan-04/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Keerthivasan-04/LeetCode/tree/master/2645-pass-the-pillow) |
