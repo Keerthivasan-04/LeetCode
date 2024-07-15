@@ -39,6 +39,7 @@
 | [0136-single-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Keerthivasan-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0275-h-index-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Keerthivasan-04/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -65,6 +66,7 @@
 | [0001-two-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthivasan-04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Keerthivasan-04/LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Keerthivasan-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keerthivasan-04/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -121,6 +123,7 @@
 | [0056-merge-intervals](https://github.com/Keerthivasan-04/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Keerthivasan-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keerthivasan-04/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
