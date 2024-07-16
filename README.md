@@ -18,6 +18,7 @@
 | [0242-valid-anagram](https://github.com/Keerthivasan-04/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -239,4 +240,5 @@
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
