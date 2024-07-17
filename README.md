@@ -45,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/Keerthivasan-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0275-h-index-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Keerthivasan-04/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Keerthivasan-04/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -73,6 +74,7 @@
 | [0049-group-anagrams](https://github.com/Keerthivasan-04/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Keerthivasan-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keerthivasan-04/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -81,6 +83,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -122,6 +125,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Keerthivasan-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +136,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Keerthivasan-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keerthivasan-04/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,10 +146,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -255,4 +262,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
