@@ -19,9 +19,10 @@ class Solution {
         ListNode slow = head;
 
         while(fast!=null && fast.next!=null){
+            prev = slow;
 
             fast = fast.next.next;
-            prev = slow;
+            
             slow = slow.next;
         }
         
