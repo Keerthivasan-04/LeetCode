@@ -175,6 +175,7 @@
 | [0015-3sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Keerthivasan-04/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Keerthivasan-04/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Keerthivasan-04/LeetCode/tree/master/0125-valid-palindrome) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Keerthivasan-04/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Keerthivasan-04/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0142-linked-list-cycle-ii) |
