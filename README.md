@@ -285,6 +285,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Keerthivasan-04/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -313,8 +315,10 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
