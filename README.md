@@ -8,6 +8,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Keerthivasan-04/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Keerthivasan-04/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Keerthivasan-04/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Keerthivasan-04/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Keerthivasan-04/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Keerthivasan-04/LeetCode/tree/master/0072-edit-distance) |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Keerthivasan-04/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Keerthivasan-04/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Keerthivasan-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Keerthivasan-04/LeetCode/tree/master/0072-edit-distance) |
@@ -331,4 +333,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Keerthivasan-04/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
