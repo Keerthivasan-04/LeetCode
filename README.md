@@ -19,6 +19,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Keerthivasan-04/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Keerthivasan-04/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -232,6 +233,7 @@
 | [0091-decode-ways](https://github.com/Keerthivasan-04/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthivasan-04/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/Keerthivasan-04/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 ## Greedy
 |  |
 | ------- |
