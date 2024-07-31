@@ -40,6 +40,7 @@
 | [0056-merge-intervals](https://github.com/Keerthivasan-04/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Keerthivasan-04/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Keerthivasan-04/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthivasan-04/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -246,6 +247,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Keerthivasan-04/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Keerthivasan-04/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -354,6 +356,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keerthivasan-04/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Keerthivasan-04/LeetCode/tree/master/0078-subsets) |
 ## Binary Search Tree
 |  |
 | ------- |
