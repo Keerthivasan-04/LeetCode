@@ -308,6 +308,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Keerthivasan-04/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keerthivasan-04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -315,6 +316,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Keerthivasan-04/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -334,6 +336,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Keerthivasan-04/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keerthivasan-04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -344,6 +347,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Keerthivasan-04/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keerthivasan-04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Keerthivasan-04/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
