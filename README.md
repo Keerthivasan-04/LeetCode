@@ -33,6 +33,7 @@
 | [0016-3sum-closest](https://github.com/Keerthivasan-04/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Keerthivasan-04/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Keerthivasan-04/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Keerthivasan-04/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Keerthivasan-04/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Keerthivasan-04/LeetCode/tree/master/0053-maximum-subarray) |
@@ -356,6 +357,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keerthivasan-04/LeetCode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Keerthivasan-04/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Keerthivasan-04/LeetCode/tree/master/0078-subsets) |
 ## Binary Search Tree
 |  |
