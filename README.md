@@ -117,6 +117,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Keerthivasan-04/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Keerthivasan-04/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -375,4 +377,8 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keerthivasan-04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Keerthivasan-04/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
