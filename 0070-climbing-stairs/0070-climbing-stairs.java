@@ -1,3 +1,4 @@
+// Memoization
 class Solution {
     public int climbStairs(int n) {
 
@@ -12,7 +13,7 @@ class Solution {
         return dp[n] = solve(n-1,dp) + solve(n-2,dp);
     }
 }
-
+// Tabulation
 // class Solution {
 //     public int climbStairs(int n) {
         
@@ -31,6 +32,7 @@ class Solution {
 //     }
 // }
 
+// Recursion
 // class Solution {
 //     public int climbStairs(int n) {
         
