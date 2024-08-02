@@ -123,6 +123,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Keerthivasan-04/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1236-n-th-tribonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/Keerthivasan-04/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -249,6 +250,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Keerthivasan-04/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
