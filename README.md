@@ -43,6 +43,7 @@
 | [0056-merge-intervals](https://github.com/Keerthivasan-04/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Keerthivasan-04/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Keerthivasan-04/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Keerthivasan-04/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -93,6 +94,7 @@
 | [0001-two-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthivasan-04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Keerthivasan-04/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Keerthivasan-04/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Keerthivasan-04/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Keerthivasan-04/LeetCode/tree/master/0217-contains-duplicate) |
@@ -224,6 +226,7 @@
 | [0048-rotate-image](https://github.com/Keerthivasan-04/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Keerthivasan-04/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0777-toeplitz-matrix) |
