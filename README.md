@@ -22,6 +22,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Keerthivasan-04/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1205-defanging-an-ip-address](https://github.com/Keerthivasan-04/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2727-number-of-senior-citizens](https://github.com/Keerthivasan-04/LeetCode/tree/master/2727-number-of-senior-citizens) |
