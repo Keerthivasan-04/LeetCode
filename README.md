@@ -73,6 +73,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Keerthivasan-04/LeetCode/tree/master/0792-binary-search) |
+| [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Keerthivasan-04/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -110,6 +111,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
@@ -137,6 +139,7 @@
 | [0371-sum-of-two-integers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Keerthivasan-04/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -239,6 +242,7 @@
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
