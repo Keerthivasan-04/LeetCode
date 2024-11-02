@@ -96,6 +96,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2554-minimum-total-distance-traveled](https://github.com/Keerthivasan-04/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2727-number-of-senior-citizens](https://github.com/Keerthivasan-04/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -117,6 +118,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
@@ -125,6 +127,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Math
 |  |
@@ -152,6 +155,7 @@
 | [1642-water-bottles](https://github.com/Keerthivasan-04/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2645-pass-the-pillow](https://github.com/Keerthivasan-04/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
