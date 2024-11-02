@@ -151,6 +151,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Keerthivasan-04/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Keerthivasan-04/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2645-pass-the-pillow](https://github.com/Keerthivasan-04/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
