@@ -28,6 +28,7 @@
 | [1797-goal-parser-interpretation](https://github.com/Keerthivasan-04/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Keerthivasan-04/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2580-circular-sentence](https://github.com/Keerthivasan-04/LeetCode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Keerthivasan-04/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
