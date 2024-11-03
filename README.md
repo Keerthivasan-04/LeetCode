@@ -21,6 +21,7 @@
 | [0273-integer-to-english-words](https://github.com/Keerthivasan-04/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Keerthivasan-04/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0812-rotate-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Keerthivasan-04/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -436,4 +437,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
