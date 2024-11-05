@@ -31,6 +31,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2580-circular-sentence](https://github.com/Keerthivasan-04/LeetCode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Keerthivasan-04/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Keerthivasan-04/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
