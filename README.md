@@ -92,6 +92,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Keerthivasan-04/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Keerthivasan-04/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Keerthivasan-04/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/Keerthivasan-04/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Keerthivasan-04/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -250,6 +251,7 @@
 | [0455-assign-cookies](https://github.com/Keerthivasan-04/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthivasan-04/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Keerthivasan-04/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
@@ -285,6 +287,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Keerthivasan-04/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Keerthivasan-04/LeetCode/tree/master/0792-binary-search) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
@@ -382,6 +385,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -453,4 +457,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0812-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
