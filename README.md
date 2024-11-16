@@ -108,6 +108,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [0239-sliding-window-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
