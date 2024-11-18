@@ -95,6 +95,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Keerthivasan-04/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1755-defuse-the-bomb](https://github.com/Keerthivasan-04/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/Keerthivasan-04/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Keerthivasan-04/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/Keerthivasan-04/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -229,6 +230,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthivasan-04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/Keerthivasan-04/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
