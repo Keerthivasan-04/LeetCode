@@ -103,6 +103,7 @@
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Keerthivasan-04/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Keerthivasan-04/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -129,6 +130,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Counting
 |  |
@@ -232,6 +234,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Keerthivasan-04/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
