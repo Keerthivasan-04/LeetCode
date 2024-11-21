@@ -102,6 +102,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Keerthivasan-04/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -184,6 +185,7 @@
 | [1803-average-waiting-time](https://github.com/Keerthivasan-04/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Keerthivasan-04/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/Keerthivasan-04/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Divide and Conquer
 |  |
@@ -280,6 +282,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Keerthivasan-04/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
 |  |
 | ------- |
