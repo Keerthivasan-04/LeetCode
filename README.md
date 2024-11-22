@@ -85,6 +85,7 @@
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Keerthivasan-04/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Keerthivasan-04/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1293-three-consecutive-odds](https://github.com/Keerthivasan-04/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -129,6 +130,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Keerthivasan-04/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -279,6 +281,7 @@
 | [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Keerthivasan-04/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Keerthivasan-04/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
