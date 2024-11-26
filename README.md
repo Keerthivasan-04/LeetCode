@@ -490,4 +490,8 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
