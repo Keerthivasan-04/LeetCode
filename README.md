@@ -78,6 +78,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0787-sliding-puzzle](https://github.com/Keerthivasan-04/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Keerthivasan-04/LeetCode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Keerthivasan-04/LeetCode/tree/master/0890-lemonade-change) |
@@ -281,6 +282,7 @@
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0787-sliding-puzzle](https://github.com/Keerthivasan-04/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -428,6 +430,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Keerthivasan-04/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
+| [0787-sliding-puzzle](https://github.com/Keerthivasan-04/LeetCode/tree/master/0787-sliding-puzzle) |
 ## Union Find
 |  |
 | ------- |
