@@ -427,6 +427,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keerthivasan-04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -497,10 +498,15 @@
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3189-find-champion-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
