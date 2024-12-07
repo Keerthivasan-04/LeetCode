@@ -100,6 +100,7 @@
 | [1755-defuse-the-bomb](https://github.com/Keerthivasan-04/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/Keerthivasan-04/LeetCode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Keerthivasan-04/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Keerthivasan-04/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/Keerthivasan-04/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/Keerthivasan-04/LeetCode/tree/master/1972-rotating-the-box) |
@@ -319,6 +320,7 @@
 | [0792-binary-search](https://github.com/Keerthivasan-04/LeetCode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Keerthivasan-04/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
