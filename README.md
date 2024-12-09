@@ -120,6 +120,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3427-special-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -309,6 +310,7 @@
 | [0238-product-of-array-except-self](https://github.com/Keerthivasan-04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
+| [3427-special-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Keerthivasan-04/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
