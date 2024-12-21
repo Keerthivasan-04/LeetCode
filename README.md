@@ -474,6 +474,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keerthivasan-04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Keerthivasan-04/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -510,6 +511,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Keerthivasan-04/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keerthivasan-04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Keerthivasan-04/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
