@@ -470,6 +470,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Keerthivasan-04/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keerthivasan-04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Keerthivasan-04/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -482,6 +483,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Keerthivasan-04/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Keerthivasan-04/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Keerthivasan-04/LeetCode/tree/master/0787-sliding-puzzle) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keerthivasan-04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -509,6 +511,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Keerthivasan-04/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keerthivasan-04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Keerthivasan-04/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Keerthivasan-04/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -524,6 +527,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Keerthivasan-04/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Keerthivasan-04/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Keerthivasan-04/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Keerthivasan-04/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Keerthivasan-04/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
