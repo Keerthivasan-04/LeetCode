@@ -75,6 +75,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Keerthivasan-04/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Keerthivasan-04/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0494-target-sum) |
 | [0566-reshape-the-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -370,6 +371,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthivasan-04/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Keerthivasan-04/LeetCode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Keerthivasan-04/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1013-fibonacci-number) |
@@ -537,6 +539,7 @@
 | [0040-combination-sum-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Keerthivasan-04/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Keerthivasan-04/LeetCode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
