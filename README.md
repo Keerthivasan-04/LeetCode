@@ -31,6 +31,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Keerthivasan-04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2427-first-letter-to-appear-twice](https://github.com/Keerthivasan-04/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2580-circular-sentence](https://github.com/Keerthivasan-04/LeetCode/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Keerthivasan-04/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Keerthivasan-04/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Keerthivasan-04/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3451-string-compression-iii) |
@@ -118,6 +119,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Keerthivasan-04/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Keerthivasan-04/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthivasan-04/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -338,6 +340,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
 | [2358-number-of-ways-to-split-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Keerthivasan-04/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
