@@ -113,6 +113,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Keerthivasan-04/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2358-number-of-ways-to-split-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Keerthivasan-04/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -336,6 +337,7 @@
 | [0238-product-of-array-except-self](https://github.com/Keerthivasan-04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
+| [2358-number-of-ways-to-split-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
