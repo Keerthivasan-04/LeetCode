@@ -26,6 +26,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Keerthivasan-04/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1524-string-matching-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1797-goal-parser-interpretation](https://github.com/Keerthivasan-04/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Keerthivasan-04/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Keerthivasan-04/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -96,6 +97,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Keerthivasan-04/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Keerthivasan-04/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1524-string-matching-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keerthivasan-04/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Keerthivasan-04/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1677-matrix-diagonal-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -558,6 +560,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
