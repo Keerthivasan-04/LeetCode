@@ -24,6 +24,7 @@
 | [0812-rotate-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Keerthivasan-04/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1250-longest-common-subsequence](https://github.com/Keerthivasan-04/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1524-string-matching-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -386,6 +387,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Keerthivasan-04/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/Keerthivasan-04/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/Keerthivasan-04/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 ## Greedy
