@@ -94,6 +94,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Keerthivasan-04/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Keerthivasan-04/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Keerthivasan-04/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/Keerthivasan-04/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
