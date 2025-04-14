@@ -125,6 +125,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Keerthivasan-04/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2551-apply-operations-to-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Keerthivasan-04/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -226,6 +227,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Keerthivasan-04/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Keerthivasan-04/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2551-apply-operations-to-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Keerthivasan-04/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthivasan-04/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -329,6 +331,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Keerthivasan-04/LeetCode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Keerthivasan-04/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Keerthivasan-04/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
 |  |
