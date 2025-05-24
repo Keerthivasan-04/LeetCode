@@ -37,6 +37,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Keerthivasan-04/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Keerthivasan-04/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Keerthivasan-04/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Keerthivasan-04/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3451-string-compression-iii) |
 ## Array
@@ -138,6 +139,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2868-continuous-subarrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Keerthivasan-04/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3194-find-words-containing-character](https://github.com/Keerthivasan-04/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
