@@ -116,6 +116,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Keerthivasan-04/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Keerthivasan-04/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/Keerthivasan-04/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Keerthivasan-04/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/Keerthivasan-04/LeetCode/tree/master/1803-average-waiting-time) |
