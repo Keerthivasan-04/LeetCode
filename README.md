@@ -10,6 +10,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Keerthivasan-04/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Keerthivasan-04/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Keerthivasan-04/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Keerthivasan-04/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Keerthivasan-04/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0065-valid-number) |
@@ -331,6 +332,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Keerthivasan-04/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keerthivasan-04/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Keerthivasan-04/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -606,6 +608,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Monotonic Stack
