@@ -11,11 +11,7 @@ class Solution {
             else if(!Character.isLetterOrDigit(s.charAt(right))){
                 right--;
             }
-            else if(s.charAt(left) == s.charAt(right)){
-                left++;
-                right--;
-            }
-            else{
+            else if(s.charAt(left++) != s.charAt(right--)){
                 return false;
             }
         }
