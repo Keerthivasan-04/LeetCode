@@ -56,6 +56,7 @@
 | [0027-remove-element](https://github.com/Keerthivasan-04/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Keerthivasan-04/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Keerthivasan-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Keerthivasan-04/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Keerthivasan-04/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Keerthivasan-04/LeetCode/tree/master/0049-group-anagrams) |
@@ -336,6 +337,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keerthivasan-04/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keerthivasan-04/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Keerthivasan-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Keerthivasan-04/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Keerthivasan-04/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -418,6 +420,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Keerthivasan-04/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Keerthivasan-04/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Keerthivasan-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Keerthivasan-04/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Keerthivasan-04/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Keerthivasan-04/LeetCode/tree/master/0055-jump-game) |
@@ -513,6 +516,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Keerthivasan-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthivasan-04/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -620,6 +624,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Keerthivasan-04/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keerthivasan-04/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Graph
