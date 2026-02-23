@@ -14,17 +14,11 @@ class Solution {
             rightMax[i] = Math.max(h[i], rightMax[i + 1]);
         }
 
-        // System.out.println(Arrays.toString(leftMax));
-        // System.out.println(Arrays.toString(rightMax));
-        int res = 0;
-        int tot = 0;
+        int total = 0;
 
         for(int i = 0; i < n; i++){
-            res = 0;
-            int bound = Math.min(leftMax[i], rightMax[i]);
-            res = bound -  h[i];
-            tot += res;
+            total += Math.min(leftMax[i], rightMax[i]) - h[i]; 
         }
-        return tot;
+        return total;
     }
 }
