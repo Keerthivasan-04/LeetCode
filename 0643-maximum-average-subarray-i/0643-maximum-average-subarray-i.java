@@ -4,20 +4,17 @@ class Solution {
        
         double max = Integer.MIN_VALUE;
         double sum = 0;
-        double avg = 0;
+
 
         for(int i = 0; i < nums.length; i++){
             sum += nums[i];
             if(i - left + 1 == k){
-                avg = sum / k;
-                max = Math.max(max,avg);
+                max = Math.max(max,sum);
 
                 sum -= nums[left];
                 left++;
-
             }
-
         }
-        return max;
+        return max / k;
     }
 }
