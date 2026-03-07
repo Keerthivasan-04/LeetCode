@@ -1,32 +1,23 @@
 class Solution {
     public int trap(int[] h) {
         int n = h.length;
-
-        int left = 0, right = n - 1;
-        int leftMax = 0, rightMax = 0;
-
-        int res = 0;
-
-        while(left <= right){
-            if(h[left] <= h[right]){
-                if(h[left] >= leftMax){
-                    leftMax = h[left];
-                }
-                else{
-                    res += leftMax - h[left];
-                }
-                left++;
-            }
-            else{
-                if(h[right] >= rightMax){
-                    rightMax = h[right];
-                }
-                else{
-                    res += rightMax - h[right];
-                }
-                right--;
-            }
+        
+        int[] leftMax = new int[n];
+        leftMax[0] = h[0];
+        for(int i = 1; i <= n-1; i++){
+            leftMax[i] = Math.max(h[i],leftMax[i-1]);
         }
-        return res;
+
+        int[] rightMax = new int[n];
+        rightMax[n-1] = h[n-1];
+        for(int i = n-2; i >= 0; i--){
+            rightMax[i] = Math.max(h[i],rightMax[i+1]);
+        }
+        int bound = 0;
+
+        for(int i = 0; i < n; i++){
+            bound += Math.min(leftMax[i],rightMax[i]) - h[i];
+        }
+        return bound;
     }
 }
