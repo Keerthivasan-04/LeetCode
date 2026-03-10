@@ -5,15 +5,17 @@ class Solution {
         int prod = 1;
         int ans = 0;
 
-        for(int right = 0; right < nums.length; right++){
-            prod *= nums[right];
+        for(int i = 0; i < nums.length; i++){
+            prod *= nums[i];
+            
 
             while(prod >= k){
                 prod /= nums[left];
-                left++;
+                left++; 
             }
-            ans += right - left + 1;
+            ans += i - left + 1;
         }
         return ans;
+        
     }
 }
