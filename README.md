@@ -80,6 +80,7 @@
 | [0189-rotate-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Keerthivasan-04/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Keerthivasan-04/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Keerthivasan-04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Keerthivasan-04/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthivasan-04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Keerthivasan-04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Keerthivasan-04/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -397,6 +399,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Keerthivasan-04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -412,6 +415,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Keerthivasan-04/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthivasan-04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Keerthivasan-04/LeetCode/tree/master/0278-first-bad-version) |
