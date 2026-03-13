@@ -88,6 +88,7 @@
 | [0268-missing-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Keerthivasan-04/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Keerthivasan-04/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Keerthivasan-04/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Keerthivasan-04/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Keerthivasan-04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthivasan-04/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -405,6 +406,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthivasan-04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Keerthivasan-04/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Keerthivasan-04/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Keerthivasan-04/LeetCode/tree/master/0724-find-pivot-index) |
@@ -683,4 +685,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Keerthivasan-04/LeetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Keerthivasan-04/LeetCode/tree/master/0620-not-boring-movies) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Keerthivasan-04/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
