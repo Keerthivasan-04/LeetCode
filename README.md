@@ -119,6 +119,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Keerthivasan-04/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1480-running-sum-of-1d-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keerthivasan-04/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Keerthivasan-04/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -409,6 +410,7 @@
 | [0724-find-pivot-index](https://github.com/Keerthivasan-04/LeetCode/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Keerthivasan-04/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Keerthivasan-04/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/Keerthivasan-04/LeetCode/tree/master/1983-maximum-population-year) |
 | [2358-number-of-ways-to-split-array](https://github.com/Keerthivasan-04/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
