@@ -227,6 +227,7 @@
 | [0258-add-digits](https://github.com/Keerthivasan-04/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Keerthivasan-04/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Keerthivasan-04/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0319-bulb-switcher](https://github.com/Keerthivasan-04/LeetCode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Keerthivasan-04/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -689,4 +690,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Keerthivasan-04/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Keerthivasan-04/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
